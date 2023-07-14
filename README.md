@@ -20,9 +20,15 @@
 ![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kukksa&theme=default)
+
+
+
 <!--
 **kukksa/kukksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kukksa&theme=github_dark" alt=""/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kukksa&theme=github_dark" alt=""/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
